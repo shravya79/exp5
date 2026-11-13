@@ -1,1 +1,5 @@
+ HEAD
 remote 2
+=======
+local
+ece70f6 (local commit)
